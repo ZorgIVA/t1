@@ -29,3 +29,5 @@ https://github.com/ZorgIVA/t1/blob/master/README.md
     Добавьте файл .gitignore в следующий коммит git add....
     Напишите правила в этом файле, чтобы игнорировать любые файлы .pyc, а также все файлы в директории cache.
     Сделайте коммит и пуш.
+
+https://github.com/ZorgIVA/t1/commit/3bed7ad860e1c9b1bf3bb05ade885ae53781ec5b

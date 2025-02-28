@@ -16,3 +16,6 @@
     Ещё раз выполните команды git diff и git diff --staged.
     Теперь можно сделать коммит git commit -m 'First commit'.
     Сделайте git push origin master.
+
+
+https://github.com/ZorgIVA/t1/blob/master/README.md
